@@ -1,4 +1,4 @@
-#created by Aditya Srivastava
+
 sp=float(input("The selling price="))
 print(sp)
 cp=float(input("The cost price="))
